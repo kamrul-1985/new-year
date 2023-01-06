@@ -1,0 +1,28 @@
+.hero-area{
+    display: flex;
+    background-color: rgb(240, 137, 137);
+    background-image: url(/images/banner/banner1.png);
+    width: 100%;
+    height: 800px;
+}
+.hero-header{
+    font-weight: 800;
+    font-size: 60px;
+}
+.hero-descript{
+}
+.my-failure{
+    display: flex;
+}
+.failure-content{
+margin: 100px;
+padding-top: 100px;
+}
+.icons{
+display: flex;
+gap: 15px;
+justify-content: center;
+}
+.icon-header{
+position: center;
+}
