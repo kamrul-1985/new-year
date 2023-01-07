@@ -79,11 +79,23 @@ padding-bottom: 40px;
     padding-bottom: 60px;
 }
 /* gradiant section style */
-.grdiant{
-    width: 1000px;
+.gra-container{
+    width: 80%;
     height:300px;
     background-image: url(/images/watch.png);
+    text-align: center;
+margin-left: 10%;
 
+}
+.gra-btn{
+    background-color: white;
+    border-radius: 3px;
+    color: #F15B22;
+    height: 40px;
+    width: 100px;
+    border-radius: 3px;
+    float: left bottom;
+    margin-right: 10px;
 }
 /* footer style */
 
